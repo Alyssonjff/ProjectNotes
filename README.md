@@ -29,6 +29,7 @@ Este é um aplicativo simples de anotações desenvolvido em React, utilizando C
 ### 1. Clonar o repositório
 
 git clone [(https://github.com/Alyssonjff/ProjectNotes.git)](https://github.com/Alyssonjff/ProjectNotes.git)
+
 cd ProjectNotes
 
 ### 2. Instalar dependências
