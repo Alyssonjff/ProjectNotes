@@ -6,38 +6,28 @@ Este é um aplicativo simples de anotações desenvolvido em React, utilizando C
 
 ## O aplicativo permite:
 
-#### Criar novas anotações
-
-#### Editar anotações existentes
-
-#### Excluir anotações com uma confirmação
-
-#### Scroll infinito para carregar mais anotações
-
-#### Tecnologias Utilizadas
-
-#### React
-
-#### Chakra UI
-
-#### Axios
-
-#### JSONPlaceholder (Fake API)
+- Criar novas anotações
+- Editar anotações existentes
+- Excluir anotações com uma confirmação
+- Scroll infinito para carregar mais anotações
+## Tecnologias Utilizadas
+- React
+- Chakra UI
+- Axios
+- JSONPlaceholder (Fake API)
 
 ## Como Executar o Projeto
 
-### 1. Clonar o repositório
-
-git clone [https://github.com/Alyssonjff/ProjectNotes.git](https://github.com/Alyssonjff/ProjectNotes.git)
-
+1. Clonar o repositório
+```
+git clone https://github.com/Alyssonjff/ProjectNotes.git
 cd ProjectNotes
+```
 
-### 2. Instalar dependências
+2. Instalar dependências
+`npm install`
 
-npm install
-
-### 3. Executar o projeto
-
-npm start
+3. Executar o projeto
+`npm start`
 
 Isso iniciará o servidor local e o aplicativo estará disponível em http://localhost:3000/.
